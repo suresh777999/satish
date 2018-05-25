@@ -4,7 +4,7 @@
   <groupId>com.st.fruits</groupId>
   <artifactId>apple</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-SNAPSHOT</version>
+  <version>1.0</version>
   <name>Maven Quick Start Archetype</name>
   <url>http://maven.apache.org</url>
   <dependencies>
